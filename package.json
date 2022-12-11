@@ -10,7 +10,7 @@
   "author": "Matheus Dias Vieira <matheuspvh13@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.17.1"
   }
 }
